@@ -1,0 +1,42 @@
+body {
+	background-color: #000000;
+	margin: 20px;
+    padding: 20px;
+}
+table, td, tr, th {
+	border: 3px solid white;
+    padding: 20px;
+    text-align: center;
+	color: #e60e0e;
+}
+img {
+	font-weight: 500px;
+	height: 250px;
+}
+.Name {
+	border: 3px solid #ff0000;
+}
+.Description {
+	border: 3px solid #dceb13;
+}
+.Image {
+	border: 3px solid #0fffd3;
+}
+.Space {
+    color: #5c14b5;
+}
+.Power {
+    color: #cf0a0a;
+}
+.Reality {
+    color: #deed0e;
+}
+.Time {
+    color: #e6a709;
+}
+.Mind {
+    color: #02b8f5;
+}
+.Soul {
+    color: #02f588;
+}
